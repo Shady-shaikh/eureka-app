@@ -32,9 +32,11 @@ This is api based application linked with https://github.com/Shady-shaikh/eureka
 * You should have flutter installed before moving further
 * now after cloning project open it in andorid studio or vs code
 * open terminal and run below commands
-* flutter clean
-* flutter pub get
-* flutter run
+* 
+   ```bash
+   flutter clean
+   flutter pub get
+   flutter run
 * If you want to test in real device you can build app then share it in your device, below is the command
 * flutter build apk
 
