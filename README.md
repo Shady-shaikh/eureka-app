@@ -32,19 +32,24 @@ This is api based application linked with https://github.com/Shady-shaikh/eureka
 * You should have flutter installed before moving further
 * now after cloning project open it in andorid studio or vs code
 * open terminal and run below commands
-* 
-   ```bash
+* ```bash
    flutter clean
    flutter pub get
    flutter run
 * If you want to test in real device you can build app then share it in your device, below is the command
-* flutter build apk
+*
+*  ```bash
+    flutter build apk
 
 ## Usage
 
-* Analyze and research COVID-related data obtained from the site.
-* Utilize filtering and visualization features for further analysis.
-* Contact the provided form in case of emergencies.
+* You need to create sales man and todays beat from beat internal users and beat calendar master 
+* First make an outelt then data will be gone in business parter module where you can see pending request section just fill out the details
+* Do assign same beat that you have created in beat calendar in above form
+* After saving details you can check daily beats module you just need click on start to start that beat than outlet than you can create orders also
+* we have given couple of features like comments, soh, outstanding, visibility etc on outlet view page
+* you can click on + button to create orders and add item then go to cart to place that order
+* you can either start or skip outlets/beats and stop that beat 
 
 
 ## Authors
