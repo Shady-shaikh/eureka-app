@@ -29,7 +29,7 @@ This is api based application linked with https://github.com/Shady-shaikh/eureka
 * Order booking page
 * ![outlet wise](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(5).png)
 * Product list
-* ![Product list](shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(6).png)
+* ![Product list](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(6).png)
 
 
 ### Executing program
