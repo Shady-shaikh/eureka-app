@@ -19,22 +19,24 @@ This is api based application linked with https://github.com/Shady-shaikh/eureka
 
 ### Site Details
 
-* Covid Information National and International Level (Api Based)
-* ![Main Page](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155242.png)
-* Prevntion Details ![Prevntion Details](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155255.png)
-* Contact Form ![Contact Form](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155307.png)
-* State Wise Data ![state wise](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155321.png)
-* Daily Updates in India ![india](https://github.com/Shady-shaikh/covidCheck/blob/main/git/Screenshot%202024-05-28%20155334.png)
+* This is api based application made in flutter
+* Login page ![Login Page](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(1).png)
+* Dashboard Details ![Dashboard Details](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(3).png)
+* Outlet Form ![Outlet Form](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(4).png)
+* Order booking page ![outlet wise](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(5).png)
+* Product list ![Product list](shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(6).png)
 
 
 ### Executing program
 
-* Start your server (e.g., XAMPP/WAMP).
-* do clone the repo in www of wamp or htdocs of xampp
-* Create a database named `covidcheck`.
-* Configure your database credentials in `dbcon.php`.
-* Import the database file `covidcheck.sql` into phpMyAdmin.
-* Run the project by navigating to `localhost/coronaCheck` in your browser.
+* You should have flutter installed before moving further
+* now after cloning project open it in andorid studio or vs code
+* open terminal and run below commands
+* flutter clean
+* flutter pub get
+* flutter run
+* If you want to test in real device you can build app then share it in your device, below is the command
+* flutter build apk
 
 ## Usage
 
