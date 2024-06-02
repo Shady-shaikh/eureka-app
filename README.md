@@ -19,17 +19,23 @@ This is api based application linked with https://github.com/Shady-shaikh/eureka
 
 ### Site Details
 
-* This is api based application made in flutter
-* Login page
-  ![Login Page](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(1).png)
-* Dashboard Details
-  ![Dashboard Details](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(3).png)
-* Outlet Form
-  ![Outlet Form](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(4).png)
-* Order booking page
-  ![outlet wise](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(5).png)
-* Product list
-  ![Product list](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(6).png)
+# API Based Application Made in Flutter
+
+## Login Page
+![Login Page](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(1).png)
+
+## Dashboard Details
+![Dashboard Details](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(3).png)
+
+## Outlet Form
+![Outlet Form](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(4).png)
+
+## Order Booking Page
+![Order Booking Page](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(5).png)
+
+## Product List
+![Product List](https://shady-shaikh.github.io/portfolio_usama/projects/eurekaapp%20(6).png)
+
 
 
 ### Executing program
